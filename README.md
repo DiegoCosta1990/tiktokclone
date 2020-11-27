@@ -1,2 +1,2 @@
 # tiktokclone
-tiktok clone MERN stack
+Tiktok clone build with MERN stack
